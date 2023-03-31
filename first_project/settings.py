@@ -87,7 +87,7 @@ WSGI_APPLICATION = 'first_project.wsgi.application'
 #         'NAME': 'b8_db',
 #         'USER': 'root',
 #         'PASSWORD': 'ashwini@123',
-#         'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
+#         'HOST': '127.0.0.1',   # Or an IP Address that your DB is hosted on
 #         'PORT': '3306',
 #     }
 # }
@@ -98,7 +98,7 @@ DATABASES = {
         'NAME': 'b8_db',
         'USER': 'root',
         'PASSWORD': 'ashwini@123',
-        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
+        'HOST': '127.0.0.1',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     },
     'Second_db':{
